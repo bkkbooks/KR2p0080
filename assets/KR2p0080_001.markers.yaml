@@ -15,6 +15,7 @@ markers:
   - {type: punctuation, offset: 7, content: '?', id: KR2p0080_tls_001-bkkpn6}
   - {type: punctuation, offset: 7, content: ), id: KR2p0080_tls_001-bkkpn7}
   - {type: 'tls:seg', offset: 13, content: '', id: KR2p0080_tls_001-1a.3}
+  - {type: substitution, offset: 14, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: punctuation, offset: 19, content: ',', id: KR2p0080_tls_001-bkkpn8}
   - {type: punctuation, offset: 19, content: 【, id: KR2p0080_tls_001-bkkpn9}
   - {type: punctuation, offset: 19, content: 】, id: KR2p0080_tls_001-bkkpn10}
@@ -109,4 +110,4 @@ markers:
   - {type: punctuation, offset: 156, content: ']', id: KR2p0080_tls_001-bkkpn65}
   - {type: xml-element, offset: 156, content: '', id: KR2p0080_tls_001-bkkxmlele10, name: p, role: close, attrs: {source: 'SHANGBO.YOUHUANGJIANGQI 8.52.5 (STRIPS 3, 1A) MACHENGYUAN 8: 277, 272 TR. MARCO CABOARA'}}
   back: []
-hash: sha256:ea4863330d584af21312e1fcfe3ac659dc9a2c45092f527ab96e7bf6f3f20815
+hash: sha256:f9111a1196354d9502f7b241ea6a352c8face4b45461df916e99fc2f87e8cfe9
